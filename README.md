@@ -1,0 +1,1 @@
+# miniProject auto readme
